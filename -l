@@ -1,0 +1,181 @@
+[33mcommit 27e5fe3c001236708c4fcdee4da81b89f491410a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kunal <kunalpatil99@gmail.com>
+Date:   Thu Dec 18 19:42:44 2025 +0530
+
+    added product file
+
+[33mcommit b89a1d6d66e6d36816d7df56f2b4aa01e86c4eee[m
+Author: kunal <kunalpatil99@gmail.com>
+Date:   Thu Dec 18 19:37:28 2025 +0530
+
+    java file added
+
+[33mcommit 86c06131b859416b7fa2c7414f4ed7c41430385f[m
+Author: kunal <kunalpatil99@gmail.com>
+Date:   Thu Dec 18 19:10:58 2025 +0530
+
+    all removed
+
+[33mcommit 3c2c63c7dc0a87be0c7f041cbdb37b4beb359edf[m
+Author: kunal <kunalpatil99@gmail.com>
+Date:   Thu Dec 18 19:07:57 2025 +0530
+
+    b1 removed
+
+[33mcommit 97f210f21deaaf72c71a1037c2a1d36c8ee9bc19[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Thu Jun 12 19:31:52 2025 +0530
+
+    JIRA-102 task completed
+
+[33mcommit 028e08a3ab0ce9fc91d603ed02d2ed64f0528079[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Wed Jun 11 19:49:37 2025 +0530
+
+    b1 file added
+
+[33mcommit 16120d205ba3444dc83c3e99e62a3a82798c242d[m
+Merge: 17226d8 73ea1dd
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Wed Jun 11 19:44:22 2025 +0530
+
+    Merge branch 'develop'
+
+[33mcommit 73ea1dd489361c4888f2e13588238bc336ef6c49[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Wed Jun 11 19:41:34 2025 +0530
+
+    s3 s4 files added
+
+[33mcommit 39d7dbc12173025d980244d65cf3dffd0f6773da[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Wed Jun 11 19:40:56 2025 +0530
+
+    s1 s2 files added
+
+[33mcommit 17226d89793e4f7ff7a4f17673452bedbce2ddd8[m
+Author: Ashok IT <30829130+ashokitschool@users.noreply.github.com>
+Date:   Wed Jun 11 19:35:08 2025 +0530
+
+    Update m1.txt
+
+[33mcommit 961c4d5292478a3a56fcb1c1c099e5ba1e0c29e8[m
+Author: Ashok IT <30829130+ashokitschool@users.noreply.github.com>
+Date:   Wed Jun 11 19:28:18 2025 +0530
+
+    Update m1.txt
+
+[33mcommit 83b01b6a2464acb1c54b933dca3344fb9c32fca6[m
+Merge: 046c464 89fd652
+Author: Ashok IT <30829130+ashokitschool@users.noreply.github.com>
+Date:   Tue Jun 10 20:07:22 2025 +0530
+
+    Merge pull request #1 from ashokitschool/develop
+    
+    m1 file added
+
+[33mcommit 89fd652857279935c56c9bbaa1a89bd239881c09[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Tue Jun 10 19:58:45 2025 +0530
+
+    m1 file added
+
+[33mcommit 046c464b5ee348753f4e0ee38f69352967e00608[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Mon Jun 9 20:18:22 2025 +0530
+
+    test commit
+
+[33mcommit 8f347a0740181aac5f56a13c87e1d33187b7aac4[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Mon Jun 9 20:11:01 2025 +0530
+
+    Revert "i var added"
+    
+    This reverts commit f35388c5213ce167b7e66908203ed3cdfda4ab3b.
+
+[33mcommit f35388c5213ce167b7e66908203ed3cdfda4ab3b[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Mon Jun 9 20:05:47 2025 +0530
+
+    i var added
+
+[33mcommit 61e5d63c18b802e31fd5bafe603c3a57734b76ff[m
+Merge: 434cf1d 1aff297
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Mon Jun 9 19:44:05 2025 +0530
+
+    resolved conflict
+
+[33mcommit 434cf1d505bb0f2c82f5607759bc246b1223e7a1[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Mon Jun 9 19:39:54 2025 +0530
+
+    status var added
+
+[33mcommit 1aff297e143c85cc7535b7a7543a88520c7a28f0[m
+Author: Ashok IT <30829130+ashokitschool@users.noreply.github.com>
+Date:   Mon Jun 9 19:38:29 2025 +0530
+
+    Update Employee.java
+
+[33mcommit a14e9e52c6d6a83ac4e2418083bc24098c5c0b57[m
+Merge: 08831ff fd8df9a
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Mon Jun 9 19:37:03 2025 +0530
+
+    resolved conflict
+
+[33mcommit 08831ffba972bfbc6dd23cd2f0c0e140536847fc[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Mon Jun 9 19:27:53 2025 +0530
+
+    name variable added
+
+[33mcommit fd8df9a937bf6beafa2f439ab555389a4a1984aa[m
+Author: Ashok IT <30829130+ashokitschool@users.noreply.github.com>
+Date:   Mon Jun 9 19:26:03 2025 +0530
+
+    Update User.java
+
+[33mcommit a6fe8caff313bdc2eb837192c18bb1b246a01dfa[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Mon Jun 9 19:23:33 2025 +0530
+
+    user file modified
+
+[33mcommit e90831db9b349b76f08673e3326a4effe8c2246e[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Fri Jun 6 20:13:08 2025 +0530
+
+    product file added
+
+[33mcommit 6eb7949022a4069a84d53953129a1e4361cdeaa3[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Fri Jun 6 20:10:47 2025 +0530
+
+    f3 file added
+
+[33mcommit d9db2ec48226b37006071fd87f90f0479209faa2[m
+Author: Ashok IT <30829130+ashokitschool@users.noreply.github.com>
+Date:   Fri Jun 6 20:06:56 2025 +0530
+
+    Update Employee.java
+
+[33mcommit 6e5c81783471fefa50ddd17d9ee61b8888176e5f[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Fri Jun 6 20:05:32 2025 +0530
+
+    3rd commit
+
+[33mcommit d7807adf5ae3d6b38e4e897a31385dbd80203227[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Fri Jun 6 19:54:50 2025 +0530
+
+    second commit
+
+[33mcommit 7f7494f0fb79a9cb325c32fa85da341aead957ba[m
+Author: Ashok <ashokitschool@gmail.com>
+Date:   Fri Jun 6 19:50:18 2025 +0530
+
+    first commit
