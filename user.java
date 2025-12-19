@@ -4,4 +4,6 @@ class User{
 
     int b = 20;
 
+    string name = "java";
+
 }
